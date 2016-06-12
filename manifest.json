@@ -1,0 +1,19 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Who do you think you are?",
+   "icons": {
+      "128": "weber-128.png",
+      "16": "weber-16.png",
+      "32": "weber-32.png",
+      "48": "weber-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzYy/B4WBC/iY/oiTIX9vS+HBC4TS4oE8l7H01QGIg5AQ8TK9NXIRqN/lqYPw9v8Onqy+j+sQcKKYE+GazXCve7WtecjJ/gakO7DDbAkSkvrszLyloYNSalOuz3GQ5Y9Eifiamy4QooCHs6IgWPb6unGBMMOxpKHaSkhGcpo/8ajN2NBTeX3xIQzQAxyK5QKysuoJ9KNOiObCt9ndmGGF717E6IBR8fMVV+SD9vbhSnGL4gVKwHI6Zrps+vYlWh/RRtBZDfDQUxzz4nw60negg+Kg/be4Vb8QLyAY1JNdQv6bo81S3dVyPwaKoWw0mXw37FtONGmEhtP3jaVnNOvJ8QIDAQAB",
+   "manifest_version": 2,
+   "name": "Who do you think you are I am!",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
